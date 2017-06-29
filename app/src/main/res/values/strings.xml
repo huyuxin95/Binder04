@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Binder04</string>
+    <string name="text_connect">连接服务</string>
+    <string name="text_disconnect">断开连接</string>
+    <string name="text_addbook">添加书本</string>
+    <string name="text_getbook">获取书本</string>
+
+</resources>
